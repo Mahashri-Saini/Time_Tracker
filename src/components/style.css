@@ -1,0 +1,17 @@
+.wrapper {
+  
+}
+
+.container {
+  background-color: #801336;
+}
+
+.barCompleted {
+  background-color: #510A32;
+
+}
+
+.label {
+  font-size: 20px;
+  color: white;
+}
